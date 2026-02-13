@@ -1,0 +1,11 @@
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\bin\Debug\exibirNome.exe.config
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\bin\Debug\exibirNome.exe
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\bin\Debug\exibirNome.pdb
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.csproj.AssemblyReference.cache
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.frmExibirNome.resources
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.Properties.Resources.resources
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.csproj.GenerateResource.cache
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.exe
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.pdb
+C:\Users\evellyn.bgrocha\source\repos\exibirNome\obj\Debug\exibirNome.exe.config

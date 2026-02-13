@@ -1,0 +1,15 @@
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\bin\Debug\net8.0\desafios de instagram.exe
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\bin\Debug\net8.0\desafios de instagram.deps.json
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\bin\Debug\net8.0\desafios de instagram.runtimeconfig.json
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\bin\Debug\net8.0\desafios de instagram.dll
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\bin\Debug\net8.0\desafios de instagram.pdb
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.AssemblyInfoInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.AssemblyInfo.cs
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.sourcelink.json
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.dll
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\refint\desafios de instagram.dll
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.pdb
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\desafios de instagram.genruntimeconfig.cache
+C:\Users\evellyn.bgrocha\source\repos\desafios de instagram\obj\Debug\net8.0\ref\desafios de instagram.dll
