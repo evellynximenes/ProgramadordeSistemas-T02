@@ -1,0 +1,11 @@
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\bin\Debug\DadosNecessarios.exe.config
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\bin\Debug\DadosNecessarios.exe
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\bin\Debug\DadosNecessarios.pdb
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.csproj.AssemblyReference.cache
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.Form1.resources
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.Properties.Resources.resources
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.csproj.GenerateResource.cache
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.exe
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.pdb
+C:\Users\evellyn.bgrocha\source\repos\DadosNecessarios\obj\Debug\DadosNecessarios.exe.config

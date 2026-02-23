@@ -1,0 +1,11 @@
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\bin\Debug\CriandoCalculadora.exe.config
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\bin\Debug\CriandoCalculadora.exe
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\bin\Debug\CriandoCalculadora.pdb
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.csproj.AssemblyReference.cache
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.Form1.resources
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.Properties.Resources.resources
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.csproj.GenerateResource.cache
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.exe
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.pdb
+C:\Users\evellyn.bgrocha\source\repos\CriandoCalculadora\obj\Debug\CriandoCalculadora.exe.config
