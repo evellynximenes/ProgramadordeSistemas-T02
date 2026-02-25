@@ -1,0 +1,11 @@
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\bin\Debug\switch-CaseE.exe.config
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\bin\Debug\switch-CaseE.exe
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\bin\Debug\switch-CaseE.pdb
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.csproj.AssemblyReference.cache
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch_CaseE.frmSwitch.resources
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch_CaseE.Properties.Resources.resources
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.csproj.GenerateResource.cache
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.csproj.CoreCompileInputs.cache
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.exe
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.pdb
+C:\Users\evellyn.bgrocha\source\repos\switch-CaseE\obj\Debug\switch-CaseE.exe.config

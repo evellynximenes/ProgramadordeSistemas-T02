@@ -36,9 +36,9 @@
             this.lblCidade = new System.Windows.Forms.Label();
             this.comboBoxCidade = new System.Windows.Forms.ComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rbFeminino = new System.Windows.Forms.RadioButton();
+            this.rbNaoBinario = new System.Windows.Forms.RadioButton();
             this.rbMasculino = new System.Windows.Forms.RadioButton();
-            this.brNaoBinario = new System.Windows.Forms.RadioButton();
+            this.rbFeminino = new System.Windows.Forms.RadioButton();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.txtNumeroCadastrado = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
@@ -52,6 +52,7 @@
             this.txtNome.TabIndex = 0;
             this.txtNome.Text = "Insira seu nome completo";
             this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
+            this.txtNome.Leave += new System.EventHandler(this.txtNome_Leave);
             // 
             // contextMenuStrip1
             // 
@@ -101,7 +102,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.brNaoBinario);
+            this.groupBox1.Controls.Add(this.rbNaoBinario);
             this.groupBox1.Controls.Add(this.rbMasculino);
             this.groupBox1.Controls.Add(this.rbFeminino);
             this.groupBox1.Location = new System.Drawing.Point(15, 142);
@@ -111,16 +112,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "gênero";
             // 
-            // rbFeminino
+            // rbNaoBinario
             // 
-            this.rbFeminino.AutoSize = true;
-            this.rbFeminino.Location = new System.Drawing.Point(7, 20);
-            this.rbFeminino.Name = "rbFeminino";
-            this.rbFeminino.Size = new System.Drawing.Size(67, 17);
-            this.rbFeminino.TabIndex = 0;
-            this.rbFeminino.TabStop = true;
-            this.rbFeminino.Text = "Feminino";
-            this.rbFeminino.UseVisualStyleBackColor = true;
+            this.rbNaoBinario.AutoSize = true;
+            this.rbNaoBinario.Location = new System.Drawing.Point(7, 68);
+            this.rbNaoBinario.Name = "rbNaoBinario";
+            this.rbNaoBinario.Size = new System.Drawing.Size(80, 17);
+            this.rbNaoBinario.TabIndex = 2;
+            this.rbNaoBinario.TabStop = true;
+            this.rbNaoBinario.Text = "Não Binário";
+            this.rbNaoBinario.UseVisualStyleBackColor = true;
             // 
             // rbMasculino
             // 
@@ -133,16 +134,16 @@
             this.rbMasculino.Text = "Masculino";
             this.rbMasculino.UseVisualStyleBackColor = true;
             // 
-            // brNaoBinario
+            // rbFeminino
             // 
-            this.brNaoBinario.AutoSize = true;
-            this.brNaoBinario.Location = new System.Drawing.Point(7, 68);
-            this.brNaoBinario.Name = "brNaoBinario";
-            this.brNaoBinario.Size = new System.Drawing.Size(80, 17);
-            this.brNaoBinario.TabIndex = 2;
-            this.brNaoBinario.TabStop = true;
-            this.brNaoBinario.Text = "Não Binário";
-            this.brNaoBinario.UseVisualStyleBackColor = true;
+            this.rbFeminino.AutoSize = true;
+            this.rbFeminino.Location = new System.Drawing.Point(7, 20);
+            this.rbFeminino.Name = "rbFeminino";
+            this.rbFeminino.Size = new System.Drawing.Size(67, 17);
+            this.rbFeminino.TabIndex = 0;
+            this.rbFeminino.TabStop = true;
+            this.rbFeminino.Text = "Feminino";
+            this.rbFeminino.UseVisualStyleBackColor = true;
             // 
             // btnCadastrar
             // 
@@ -162,6 +163,7 @@
             this.txtNumeroCadastrado.Size = new System.Drawing.Size(292, 20);
             this.txtNumeroCadastrado.TabIndex = 8;
             this.txtNumeroCadastrado.Text = "Número cadastrado";
+            this.txtNumeroCadastrado.Leave += new System.EventHandler(this.txtNumeroCadastrado_Leave);
             // 
             // Form1
             // 
@@ -194,7 +196,7 @@
         private System.Windows.Forms.Label lblCidade;
         private System.Windows.Forms.ComboBox comboBoxCidade;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.RadioButton brNaoBinario;
+        private System.Windows.Forms.RadioButton rbNaoBinario;
         private System.Windows.Forms.RadioButton rbMasculino;
         private System.Windows.Forms.RadioButton rbFeminino;
         private System.Windows.Forms.Button btnCadastrar;
